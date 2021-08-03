@@ -1,7 +1,7 @@
 ﻿/*
 * file: graph.c
 * @author: Luo Feijie
-* @date: 2021-5-5 至 2021-6-10
+* @date: 2021-5-5 to 2021-6-10
 * @note: This file is written for summarizing graph theory knowledge.
 */
 /*
